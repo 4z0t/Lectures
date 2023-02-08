@@ -19,7 +19,7 @@
 1. Связи
 2. порядка
 3. Аксиомы непрерывности
-   * Акс. Архимеда ${\forall {a>0} \space \exist{n \in \natnums}:  n \cdot a>b }$
+   * Акс. Архимеда ${\forall {a>0} \space \exist {n \in \natnums}:  n \cdot a>b }$
    * Акс. Полноты
 4. Через ${M \in l}$ проходит не более одной прямой, не пересекающей данную прямую.
 
@@ -112,7 +112,8 @@ $$
 $$
 {\frac{\Gamma , \alpha \vdash}{\Gamma \vdash \neg \alpha }}
 $$
-----
+
+---
 
 ### $E_{\wedge}$
 
@@ -150,6 +151,7 @@ $$
 {\Gamma \vdash}
 {\Gamma \vdash \alpha}
 $$
+
 ---
 
 ### RAA - Reductio ad absurdum
