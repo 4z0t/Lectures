@@ -190,4 +190,19 @@ $$
       I_{\wedge}
 $$
 
-2.
+2. ${\alpha \vee \neg \alpha}$
+
+$$
+   \frac
+   {
+      \frac
+      {...}
+      {
+          \neg (\alpha \vee \neg \alpha) \vdash
+      }
+   }
+   {
+      \vdash \alpha \vee \neg \alpha
+   }
+   RAA
+$$

@@ -1,0 +1,30 @@
+{
+    "Gamma": {
+        "body": "\\Gamma",
+        "prefix": "\\Гамма"
+    },
+    "Alpha": {
+        "body": "\\alpha",
+        "prefix": "\\альфа"
+    },
+    "Beta": {
+        "body": "\\beta",
+        "prefix": "\\бета"
+    },
+    "vdash": {
+        "body": "\\vdash",
+        "prefix": "\\дэш"
+    },
+    "implies": {
+        "body": "\\implies",
+        "prefix": "\\след"
+    },
+    "latex_scope": {
+        "body": "${$0}$",
+        "prefix": "\\латех"
+    },
+    "phi":{
+        "body": "\\phi",
+        "prefix": "\\фи"
+    }
+}
